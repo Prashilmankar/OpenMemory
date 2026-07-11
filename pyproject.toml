@@ -2,4 +2,12 @@
 name = "openmemory"
 version = "0.1.0"
 description = "The open-source memory layer for AI applications."
+readme = "README.md"
 requires-python = ">=3.11"
+license = { text = "MIT" }
+
+authors = [
+    { name = "Prashil Mankar" }
+]
+
+dependencies = []
